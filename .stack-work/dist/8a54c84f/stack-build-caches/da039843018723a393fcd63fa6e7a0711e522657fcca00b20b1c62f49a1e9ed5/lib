@@ -1,10 +1,10 @@
-C:\Users\pixel\OneDrive\Desktop\Haskell Snake\.stack-work\dist\8a54c84f\build\autogen\cabal_macros.h:
-  hash: 7d690a583ca5f898485c390968768dc3423669b52afc1c64ddd1aa14959def13
 C:\Users\pixel\AppData\Local\Programs\stack\x86_64-windows\ghc-9.2.5\lib\x86_64-windows-ghc-9.2.5\rts-1.0.2\include\ghcversion.h:
   hash: 11ad275fbf8e943d53a7f4fb9f1151b5373cd99c5bad9844f4ab42133d514bd9
-C:\Users\pixel\OneDrive\Desktop\Haskell Snake\Snake.cabal:
-  hash: fb6b2706ff9ae17040740af2cd0fce1732fcc5df042ac4effe9d54174c0adddd
-C:\Users\pixel\OneDrive\Desktop\Haskell Snake\src\Snake.hs:
+C:\Users\pixel\tset\Haskell-Snake-Game\.stack-work\dist\8a54c84f\build\autogen\cabal_macros.h:
+  hash: 7d690a583ca5f898485c390968768dc3423669b52afc1c64ddd1aa14959def13
+C:\Users\pixel\tset\Haskell-Snake-Game\src\Snake.hs:
   hash: 7eb1e3bd94ce0fbaaa4c203cbf2feef34b42a83432abcb61c91e57991cf6da01
-C:\Users\pixel\OneDrive\Desktop\Haskell Snake\.stack-work\dist\8a54c84f\build\autogen\Paths_Snake.hs:
-  hash: 421e56987a45a24edcd21d508d5cc8cd8f6cb06c2b41fed1e0989293dcd58f4c
+C:\Users\pixel\tset\Haskell-Snake-Game\Snake.cabal:
+  hash: 4e8505565339e99aca64f20a17d536e1cf7d72d66c02d5aaf43061d27398537a
+C:\Users\pixel\tset\Haskell-Snake-Game\.stack-work\dist\8a54c84f\build\autogen\Paths_Snake.hs:
+  hash: ef82afafed78959945bbc17abcda1dd6d0bc304e5e863bb541cbed4c382d222f

@@ -42,12 +42,12 @@ getBinDir, getLibDir, getDynLibDir, getDataDir, getLibexecDir, getSysconfDir :: 
 
 
 bindir, libdir, dynlibdir, datadir, libexecdir, sysconfdir :: FilePath
-bindir     = "C:\\Users\\pixel\\OneDrive\\Desktop\\Haskell Snake\\.stack-work\\install\\9b554abe\\bin"
-libdir     = "C:\\Users\\pixel\\OneDrive\\Desktop\\Haskell Snake\\.stack-work\\install\\9b554abe\\lib\\x86_64-windows-ghc-9.2.5\\Snake-0.0.0-3LYTp2qWvEbFDzQS21QNh4-snake"
-dynlibdir  = "C:\\Users\\pixel\\OneDrive\\Desktop\\Haskell Snake\\.stack-work\\install\\9b554abe\\lib\\x86_64-windows-ghc-9.2.5"
-datadir    = "C:\\Users\\pixel\\OneDrive\\Desktop\\Haskell Snake\\.stack-work\\install\\9b554abe\\share\\x86_64-windows-ghc-9.2.5\\Snake-0.0.0"
-libexecdir = "C:\\Users\\pixel\\OneDrive\\Desktop\\Haskell Snake\\.stack-work\\install\\9b554abe\\libexec\\x86_64-windows-ghc-9.2.5\\Snake-0.0.0"
-sysconfdir = "C:\\Users\\pixel\\OneDrive\\Desktop\\Haskell Snake\\.stack-work\\install\\9b554abe\\etc"
+bindir     = "C:\\Users\\pixel\\tset\\Haskell-Snake-Game\\.stack-work\\install\\9b554abe\\bin"
+libdir     = "C:\\Users\\pixel\\tset\\Haskell-Snake-Game\\.stack-work\\install\\9b554abe\\lib\\x86_64-windows-ghc-9.2.5\\Snake-0.0.0-3LYTp2qWvEbFDzQS21QNh4-snake"
+dynlibdir  = "C:\\Users\\pixel\\tset\\Haskell-Snake-Game\\.stack-work\\install\\9b554abe\\lib\\x86_64-windows-ghc-9.2.5"
+datadir    = "C:\\Users\\pixel\\tset\\Haskell-Snake-Game\\.stack-work\\install\\9b554abe\\share\\x86_64-windows-ghc-9.2.5\\Snake-0.0.0"
+libexecdir = "C:\\Users\\pixel\\tset\\Haskell-Snake-Game\\.stack-work\\install\\9b554abe\\libexec\\x86_64-windows-ghc-9.2.5\\Snake-0.0.0"
+sysconfdir = "C:\\Users\\pixel\\tset\\Haskell-Snake-Game\\.stack-work\\install\\9b554abe\\etc"
 
 getBinDir     = catchIO (getEnv "Snake_bindir")     (\_ -> return bindir)
 getLibDir     = catchIO (getEnv "Snake_libdir")     (\_ -> return libdir)
